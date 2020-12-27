@@ -1,0 +1,33 @@
+#autocomplete {
+opacity: 0.6; background: transparent; position: absolute; box-sizing: border-box; cursor: text; pointer-events: none; color: black; width: 421px;border:none;} .vc_textarea{ padding: 10px; min-height: 100px; resize: none; }
+#msg_input
+{
+background: transparent; color: black; opacity: 1;   width: calc(100% - 40px);
+border: 1px solid black;
+border-radius: 10px
+ }
+#autocomplete{ opacity: 0.6; background: transparent;padding: 11px 11px 11px 11px; }
+
+ #msg_input{
+    color: black;
+}
+[contenteditable] {
+    padding:12px;
+}
+[data-placeholder]:empty:before {
+     content: attr(data-placeholder);
+     color: #888;
+}
+.test {
+  background: transparent; color: black; opacity: 1;   width: calc(100% - 40px);
+border: 1px solid black;
+border-radius: 10px;
+height:100px
+}
+
+[contentEditable=true]:empty:not(:focus):before{
+    content:attr(data-placeholder) }
+.text{
+height:200px;
+border:2px solid black;
+}
