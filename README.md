@@ -46,10 +46,22 @@ The purpose of this project is to train the next word predicting models. Models 
 
 [![Watch the video](screen_shot_app.png)](https://youtu.be/h4oqBxVlcxA)
 
-
 # Authors
 
 * **Deepak Chawla** - [Linkedin](https://www.linkedin.com/in/deepakchawla1307/)
+
+# Achievement
+
+I launched a standard hashtag for the data science 
+community named #geekeedatascience. A Hashtag For Community To Learn, Build, And Command 
+
+Anyone can use #geekeedatascience to categorize your message into your post, picture, and contents. By which you can participate in a discussion on your social media platform with the best minds of Data Scientist in the world. And you can discover yourself with new conceptual knowledge in the science of data. Make use of this #geekeedatascience to reach people.
+
+* **For more details click [here](https://geekeedatascience.com/)** 
+* **[Instagram](https://www.instagram.com/geekeedatascience/) 
+[Linkedin](https://www.linkedin.com/in/geekeedatascience/) [Twitter](https://twitter.com/GDatascience) 
+[Facebook](https://www.facebook.com/Geekeedatascience-105980804425336)** 
+
 
 # License
 
@@ -59,3 +71,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Hat tip to anyone whose code was used
 * Inspiration
+
