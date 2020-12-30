@@ -1,12 +1,11 @@
 # CorrectMe
-This Project contains two API one is auto-corrections and and other is autosuggestions.
-autosuggestions.
+This Project contains two API one is auto-corrections and other is autosuggestions.
 Auto-correction build with the help of text blob library and other one is auto-suggestions with the help of transforms and Bart large model.
 
 ## Project Intro
 
-The purpose of this project is to train the next word predicting models. Models should be able to suggest the next word after the user has input word/words auto-correct the incorrect word/s like Gmail and Grammarly doing.
-Autocorrect the incorrect word in the input field.
+The purpose of this project is to train the next word predicting models. Models should be able to suggest the next word after the user has input word/words auto-correct the incorrect word/s.
+Autocorrect the incorrect word in the input field like Gmail and Grammarly doing.
 
 ![CorrectMe](correctme.gif)
 
@@ -27,12 +26,12 @@ Autocorrect the incorrect word in the input field.
 * `main.py` - use pre-trained Bart model for next word prediction
 
 ## Process Flow
-- Frontend development
+- Frontend Development
 - Data Collection
 - Data Processing/Cleaning
 - Words Tokenizing
 - Model Training
-- Demo development
+- Demo Development
 
 ## Getting Started
 
