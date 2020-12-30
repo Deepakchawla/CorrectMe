@@ -31,3 +31,13 @@ height:100px
 height:200px;
 border:2px solid black;
 }
+.top_heading
+{
+	font-size: 30px;
+	text-align: center;
+	width: 100%;
+	background: #6371d9;
+	padding: 13px;
+	line-height: 30px;
+	color: white;
+}
