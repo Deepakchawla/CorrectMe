@@ -1,18 +1,17 @@
 # CorrectMe
-This Project contains two api one is auto corrections and auto suggestions.
-Auto correction build with the help of textblob library and auto suggestions with the help of transforms and bart large model.
+This Project contains two API one is auto-corrections and autosuggestions. Auto-correction build with the help of text blob library and auto-suggestions with the help of transforms and Bart large model.
 
 ## Project Intro
-The purpose of this project is to train next word predicting models. Models should be able to suggest the next word after user has input word/words
-auto correct the incorrect word/s like Gmail and Grammarly doing. 
+
+The purpose of this project is to train the next word predicting models. Models should be able to suggest the next word after the user has input word/words auto-correct the incorrect word/s like Gmail and Grammarly doing.
+
+![CorrectMe](correctme.gif)
 
 ### Methods Used
 * Language Prediction
 * Natural Language Processing
 * Transformers Bart Model
 * Textblob
-
-![CorrectMe](correctme.gif)
 
 ### Technologies
 * Python
@@ -45,8 +44,8 @@ auto correct the incorrect word/s like Gmail and Grammarly doing.
 
 4. Open your browser at http://127.0.0.1:8083/
 
+[![Watch the video](screen_shot_app.png)](https://youtu.be/h4oqBxVlcxA)
 
-![Screenshot of website running](assets/predword.png)
 
 # Authors
 
