@@ -1,5 +1,6 @@
 # CorrectMe
-This Project contains two API one is auto-corrections and autosuggestions.
+This Project contains two API one is auto-corrections and and other is autosuggestions.
+autosuggestions.
 Auto-correction build with the help of text blob library and other one is auto-suggestions with the help of transforms and Bart large model.
 
 ## Project Intro
