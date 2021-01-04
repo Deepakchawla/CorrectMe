@@ -46,7 +46,7 @@ Autocorrect the incorrect word in the input field like Gmail and Grammarly doing
 
 4. Open your browser at http://127.0.0.1:8083/
 
-[![Watch the video](screen_shot_app.png)](https://youtu.be/h4oqBxVlcxA)
+[![Watch the video](screen_shot_app.png)](https://youtu.be/WMfD9X--gys)
 
 # Authors
 
